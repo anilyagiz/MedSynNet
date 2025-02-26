@@ -1,7 +1,0 @@
-README.md
-setup.py
-medsynnet.egg-info/PKG-INFO
-medsynnet.egg-info/SOURCES.txt
-medsynnet.egg-info/dependency_links.txt
-medsynnet.egg-info/requires.txt
-medsynnet.egg-info/top_level.txt
